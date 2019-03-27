@@ -1,0 +1,1 @@
+{"type":"Scene","props":{"width":720,"height":1280},"compId":2,"child":[{"type":"FontClip","props":{"value":"13800138000","skin":"comp/clip_num.png","sheet":"0123456789"},"compId":3}],"loadList":["comp/clip_num.png"],"loadList3D":[]}

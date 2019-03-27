@@ -1,0 +1,22 @@
+//pendulum.scene
+pass	-->	laya.physics.joint.DistanceJoint //距离关节
+pass	-->	laya.physics.joint.MouseJoint	//鼠标关节
+//rope.scene
+pass	-->	laya.physics.joint.RopeJoint	//绳索关节
+
+//chain.scene
+pass	-->	laya.physics.joint.WeldJoint //焊接关节
+//car.scene
+pass	-->	laya.physics.joint.WheelJoint //轮子关节
+//pulley.scene
+pass	-->	laya.physics.joint.PulleyJoint //滑轮关节
+
+//prismatic.scene 活塞运动
+pass	-->	laya.physics.joint.PrismaticJoint//平移关节
+
+//piston.scene 马达带动活塞运动
+pass	-->	laya.physics.joint.RevoluteJoint//旋转关节
+
+laya.physics.joint.GearJoint
+
+laya.physics.joint.MotorJoint

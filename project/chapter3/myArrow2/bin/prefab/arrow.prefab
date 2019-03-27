@@ -1,0 +1,1 @@
+{"type":"Sprite","props":{"y":0,"x":0,"presetID":1,"name":"arrow","isPresetRoot":true},"compId":30,"child":[{"type":"Sprite","props":{"y":-8,"x":-152,"texture":"img/arrow-sheet0.png","presetID":2,"name":"image"},"compId":31},{"type":"Script","props":{"presetID":3,"runtime":"script/ArrowScript.js"},"compId":35}],"loadList":["img/arrow-sheet0.png"],"loadList3D":[]}

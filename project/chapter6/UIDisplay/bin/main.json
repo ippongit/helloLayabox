@@ -1,0 +1,1 @@
+{"type":"Scene","props":{"width":1280,"runtime":"script/MainControl.js","height":720},"compId":2,"child":[{"type":"Button","props":{"width":200,"var":"BTN_dialog","skin":"comp/button.png","labelSize":32,"label":"Show Dialog","height":50},"compId":3}],"loadList":["comp/button.png"],"loadList3D":[]}

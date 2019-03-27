@@ -1,0 +1,42 @@
+{
+    "frames": {
+        "arrow.png": {
+            "frame": {
+                "h": 15,
+                "idx": 0,
+                "w": 150,
+                "x": 0,
+                "y": 312
+            },
+            "sourceSize": {
+                "h": 17,
+                "w": 152
+            },
+            "spriteSourceSize": {
+                "x": 1,
+                "y": 1
+            }
+        },
+        "bow.png": {
+            "frame": {
+                "h": 311,
+                "idx": 0,
+                "w": 101,
+                "x": 0,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 320,
+                "w": 107
+            },
+            "spriteSourceSize": {
+                "x": 3,
+                "y": 5
+            }
+        }
+    },
+    "meta": {
+        "image": "img.png",
+        "prefix": "img/"
+    }
+}

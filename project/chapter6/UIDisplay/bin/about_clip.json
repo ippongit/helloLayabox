@@ -1,0 +1,1 @@
+{"type":"Scene","props":{"width":720,"runtime":"script/About_clip.js","height":1280},"compId":2,"child":[{"type":"Clip","props":{"y":0,"x":0,"width":100,"var":"Clip_1","skin":"comp/clip_num.png","index":5,"height":100,"clipX":10},"compId":7}],"loadList":["comp/clip_num.png"],"loadList3D":[]}

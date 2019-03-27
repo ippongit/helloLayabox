@@ -1,0 +1,1 @@
+{"type":"Sprite","props":{"y":0,"x":0,"presetID":1,"name":"ball","isPresetRoot":true},"compId":32,"child":[{"type":"Sprite","props":{"y":-40,"x":-40,"texture":"img/ball_green.png","presetID":2,"name":"img_ball"},"compId":33},{"type":"Script","props":{"presetID":3,"runtime":"script/BallScript.js"},"compId":37}],"loadList":["img/ball_green.png"],"loadList3D":[]}
