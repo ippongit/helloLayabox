@@ -1,0 +1,1 @@
+{"type":"Scene","props":{"width":1280,"height":720},"compId":2,"child":[{"type":"Animation","props":{"y":200,"x":200,"wrapMode":"2","source":"actorAnimation.ani","interval":200,"autoAnimation":"walk_0"},"compId":5}],"loadList":["actorAnimation.ani"],"loadList3D":[]}
