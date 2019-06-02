@@ -1,4 +1,5 @@
-#Cannot read property 'createTexture' of null
-##·¢ÏÖÈÕÆÚ£º2019-06-02
-##ÏêÏ¸ÃèÊö£º
-LayaAir IDE 2.1.0°æ±¾ÒÔºóÈ¡ÏûÊ¹ÓÃCanvas APIºóWebGLÀà£¬Àà¿â°æ±¾´óÓÚ2.0.1µÄÏîÄ¿Èç¹û±à¼­Ä£Ê½ÏÂÔÚÀà¿âÑ¡ÔñÖĞWebgl£¬¿ÉÄÜ»á³öÏÖ´íÎóÌáÊ¾£º¡°Cannot read property 'createTexture' of null¡±
+é—®é¢˜ï¼šCannot read property 'createTexture' of null
+å‘ç°æ—¥æœŸï¼š2019-06-02
+è¯¦ç»†æè¿°ï¼š
+LayaAir IDE 2.1.0ç‰ˆæœ¬ä»¥åå–æ¶ˆä½¿ç”¨Canvas APIåWebGLç±»ï¼Œç±»åº“ç‰ˆæœ¬å¤§äº2.0.1çš„é¡¹ç›®å¦‚æœç¼–è¾‘æ¨¡å¼ä¸‹åœ¨ç±»åº“é€‰æ‹©ä¸­Webglï¼Œ
+å¯èƒ½ä¼šå‡ºç°é”™è¯¯æç¤ºï¼šâ€œCannot read property 'createTexture' of nullâ€
