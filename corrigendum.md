@@ -1,13 +1,13 @@
 ---
 
-### ¿±ÎóĞŞÕı£º
-·´À¡ÓÊÏä£º116796544@qq.com
+### å‹˜è¯¯ä¿®æ­£ï¼š
+åé¦ˆé‚®ç®±ï¼š116796544@qq.com
 
 ---
 
-#### ÎÊÌâ£ºCannot read property 'createTexture' of null
-#### ·¢ÏÖÈÕÆÚ£º2019-06-02
-#### ÏêÏ¸ÃèÊö£º
-LayaAir IDE 2.1.0°æ±¾ÒÔºóÈ¡ÏûÊ¹ÓÃCanvas APIºóWebGLÀà£¬Àà¿â°æ±¾´óÓÚ2.0.1µÄÏîÄ¿Èç¹û±à¼­Ä£Ê½ÏÂÔÚÀà¿âÑ¡ÔñÖĞWebgl£¬¿ÉÄÜ»á³öÏÖ´íÎóÌáÊ¾£º¡°Cannot read property 'createTexture' of null¡±£»½â¾ö·½·¨ÊÇÈ¡ÏûÑ¡Ôñwebgl¿â
+#### é—®é¢˜ï¼šCannot read property 'createTexture' of null
+#### å‘ç°æ—¥æœŸï¼š2019-06-02
+#### è¯¦ç»†æè¿°ï¼š
+LayaAir IDE 2.1.0ç‰ˆæœ¬ä»¥åå–æ¶ˆä½¿ç”¨Canvas APIåï¼ŒWebGLç±»è¢«å–æ¶ˆã€‚ç±»åº“ç‰ˆæœ¬å¤§äº2.0.1çš„é¡¹ç›®å¦‚æœç¼–è¾‘æ¨¡å¼ä¸‹åœ¨ç±»åº“é€‰æ‹©ä¸­WebGLï¼Œå¯èƒ½ä¼šå‡ºç°é”™è¯¯æç¤ºï¼šâ€œCannot read property 'createTexture' of nullâ€ï¼›è§£å†³æ–¹æ³•æ˜¯å–æ¶ˆé€‰æ‹©WebGLåº“
 
 ---
